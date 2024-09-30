@@ -123,6 +123,7 @@ git push heroku main
 Generate database
 
 ```
+
 heroku run rails db:migrate
 heroku run rails db:seed
 ```
